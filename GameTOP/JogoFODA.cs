@@ -1,15 +1,16 @@
 namespace GameTOP
 {
     public class JogoFODA{
-    private readonly Jogador _jogador;
+    private readonly IJogador _jogador;
 
-    public JogoFODA(Jogador jogador)
+    public JogoFODA(IJogador jogador)
     {
         _jogador = jogador;
     }
     public void IniciarJogo()
     {
-            System.Console.Write($"{_jogador._Nome} deu um passe");
-    }
-}
+        _jogador.Corre();
+        _jogador.Chuta();
+        _jogador.Passe();
+    }}
 }
