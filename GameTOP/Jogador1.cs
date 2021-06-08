@@ -3,8 +3,7 @@ namespace GameTOP
     public class Jogador1 : IJogador
     {
         public readonly string _Nome;
-
-        public Jogador1(string nome)
+        public Jogador1(string nome = "Ronaldo")
         {
             _Nome = nome;
         }
