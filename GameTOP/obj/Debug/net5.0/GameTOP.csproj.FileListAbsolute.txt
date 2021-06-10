@@ -14,3 +14,8 @@ D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\obj\Debug\net5.0\GameTOP.dll
 D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\obj\Debug\net5.0\ref\GameTOP.dll
 D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\obj\Debug\net5.0\GameTOP.pdb
 D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\obj\Debug\net5.0\GameTOP.genruntimeconfig.cache
+D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\bin\Debug\net5.0\GameTOP.Interface.dll
+D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\bin\Debug\net5.0\GameTOP.Lib.dll
+D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\bin\Debug\net5.0\GameTOP.Lib.pdb
+D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\bin\Debug\net5.0\GameTOP.Interface.pdb
+D:\Programas\Curso Full-Stack\CONSOLECORE\GameTOP\obj\Debug\net5.0\GameTOP.csproj.CopyComplete

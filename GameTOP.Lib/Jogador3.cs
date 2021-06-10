@@ -2,21 +2,21 @@ using GameTOP.Interface;
 
 namespace GameTOP.Lib
 {
-    public class Jogador2 : IJogador
+    public class Jogador3 : IJogador
     {
         public string Chuta()
         {
-            return "Maradona estas pateando \n";
+            return "teste Chuta \n";
         }
 
         public string Corre()
         {
-            return "Maradona estas corriendo \n";
+            return "teste Corre \n";
         }
 
         public string Passe()
         {
-            return "Maradona estas pasando \n";
+            return "teste Passa \n";
         }
     }
 }
